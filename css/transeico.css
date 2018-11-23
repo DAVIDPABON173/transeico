@@ -1,5 +1,6 @@
 .nav-menu, .bg-gradient{
-	background: linear-gradient(135deg, rgb(13, 143, 26) 0%, rgb(167, 250, 42) 100%) !important;
+	/*background: linear-gradient(135deg, rgb(13, 143, 26) 0%, rgb(167, 250, 42) 100%) !important;*/
+    background: linear-gradient(135deg, rgb(40, 167, 69) 0%, rgb(40, 167, 69) 100%) !important;
 }
 
 .section {
@@ -60,9 +61,17 @@ i{
 }
 
 .card.features:before {    
-    background: linear-gradient(135deg, rgb(13, 143, 26) 0%, rgb(167, 250, 42) 100%) !important;
+    background: linear-gradient(135deg, rgb(13, 143, 26) 0%, rgb(167, 250, 42) 100%) !important;    
 }
 
 .light-bg {
     background-color: #8bc34a4a !important;
+}
+
+.light-bg-2 {
+    background-color: #ffffff4a !important;
+}
+
+h2, p{
+    text-align: center !important;
 }
