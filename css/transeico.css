@@ -1,22 +1,19 @@
 .nav-menu, .bg-gradient{
 	/*background: linear-gradient(135deg, rgb(13, 143, 26) 0%, rgb(167, 250, 42) 100%) !important;*/
-    background: linear-gradient(135deg, rgb(40, 167, 69) 0%, rgb(40, 167, 69) 100%) !important;
+    background: linear-gradient(135deg, rgb(23, 117, 23) 0%, rgb(23, 117, 23) 100%) !important;
 }
 
-.section {
-    padding: 40px 0 !important;
-}
 
 .big-span{
 	font-size: 5rem;
 }
 
 span{   
-    color: green;
+    color: #19751c;
 }
 
 i{
-	color: green;
+	color: #19751c;
 }
 
 .text-space{
@@ -61,8 +58,12 @@ i{
     display: block;
 }
 
-.title, h1, h2, h3, h4, h5, h6{
-	color: green;
+.title, h2, h3, h4, h5, h6{
+	color: #19751c;
+}
+
+h1{
+    color: white;
 }
 
 .nav-tabs .nav-link.active {
@@ -98,4 +99,8 @@ h2, p{
 
 .bg-green{
     background-color: #28a74585;
+}
+
+.text-warning{
+    color: yellow !important;
 }
