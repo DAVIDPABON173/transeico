@@ -11,6 +11,10 @@
 	font-size: 5rem;
 }
 
+span{   
+    color: green;
+}
+
 i{
 	color: green;
 }
@@ -37,6 +41,14 @@ i{
     background-size: auto;
     z-index: 2;
     background-color: blue;
+}
+
+.bg-body{
+    background: url('../images/bg-1.jpg');
+    background-size: cover;
+    z-index: 2;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 .color-overlay {
@@ -74,4 +86,16 @@ i{
 
 h2, p{
     text-align: center !important;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.bg-gray{
+    background-color: #0000008f;
+}
+
+.bg-green{
+    background-color: #28a74585;
 }
