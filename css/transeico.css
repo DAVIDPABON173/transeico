@@ -110,3 +110,7 @@ h2, p{
 .call-to-action{
     margin: 0px !important;
 }
+
+.card{
+    border: 2px #147d1b solid;
+}
