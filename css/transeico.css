@@ -59,7 +59,7 @@ i{
 }
 
 .title, h2, h3, h4, h5, h6{
-	color: #19751c;
+	color: #19751c !important;
 }
 
 h1{
@@ -94,13 +94,19 @@ h2, p{
 }
 
 .bg-gray{
-    background-color: #0000008f;
+    background-color: #000;
+    opacity: .746988 !important;
 }
 
 .bg-green{
-    background-color: #28a74585;
+    background-color: #147d1b;
+    opacity: .903614 !important;
 }
 
 .text-warning{
     color: yellow !important;
+}
+
+.call-to-action{
+    margin: 0px !important;
 }
